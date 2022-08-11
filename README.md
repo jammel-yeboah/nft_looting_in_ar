@@ -1,7 +1,5 @@
 # 🎮 CREATING & MINTING NFTs - FROM LOOTBOXES IN AR! 🎮
-This is a game demo currently built for Android. Using the Mumbai Testnet on the Polygon Network,
-you can connect your decentralized crypto wallet to store minted NFTs you place in loot boxes in
-the real world!
+With the Mumbai Testnet on the Polygon Network, you can connect your decentralized crypto wallet to store minted NFTs you place in loot boxes in the real world using AR technology!
 ---
 <br>
 <br>
