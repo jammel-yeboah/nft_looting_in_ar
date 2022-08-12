@@ -7,7 +7,7 @@ the real world!
 
 
 ### Project Demo:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I-IKt0VTCSI/0.jpg)](https://www.youtube.com/watch?v=I-IKt0VTCSI)
+[![Project Demo](https://img.youtube.com/vi/I-IKt0VTCSI/0.jpg)](https://www.youtube.com/watch?v=I-IKt0VTCSI&target=_blank)
 <br>
 <br>
 <br>
