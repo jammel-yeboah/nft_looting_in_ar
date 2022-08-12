@@ -1,10 +1,24 @@
-# 🎮 CREATING & MINTING NFTs - FROM LOOTBOXES IN AR! 🎮
-With the Mumbai Testnet on the Polygon Network, you can connect your decentralized crypto wallet to store minted NFTs you place in loot boxes in the real world using AR technology!
+## 🎮 CREATING & MINTING NFTs - FROM LOOTBOXES IN AR! 🎮
+This is a game demo currently built for Android. Using the Mumbai Testnet on the Polygon Network,
+you can connect your decentralized crypto wallet to store minted NFTs you place in loot boxes in
+the real world!
 ---
+<br>
+
+
+### Project Demo:
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I-IKt0VTCSI/0.jpg)](https://www.youtube.com/watch?v=I-IKt0VTCSI)
 <br>
 <br>
 <br>
 
+## **To Play the Demo:**
+1. Download the [APK file](https://drive.google.com/file/d/1gHg93K5TzJXntXJ_jueZEU0DNkKE93BX/view?usp=sharing) on your Android device
+2. Download [Metamask](https://metamask.io/) on your Android device and create an account
+3. [Connect your Metamask wallet to the Mumbai Testnet](https://blog.polysynth.com/how-to-connect-polygon-testnet-to-metamask-wallet-472bca410d64)
+3. Click on the game APK file on your Android device to install and run
+
+<br>
 
 ## **To Use this Repo:**
 
